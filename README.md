@@ -9,4 +9,10 @@
 - ⚛️ **React** – UI development  
 - ⚡ **Vite** – Fast build and dev environment  
 - 🟦 **TypeScript** – Type-safe JavaScript  
-- 🧹 **ESLint** – Code linting and formatting
+-  **MUI** – CSS Framework
+
+  ##  Features Covered
+  -  **Adding a Node**
+  -  **Editing the Node** - by double clicking on node
+  -  **Connecting node edges**
+  -  **Validating edges before saving**
