@@ -1,5 +1,5 @@
 import { Handle, Position } from 'reactflow';
-import { Box, TextField, Typography } from '@mui/material';
+import { Box, TextField } from '@mui/material';
 import styles from "./TextNode.module.scss"
 
 // This component will handle the text nodes
